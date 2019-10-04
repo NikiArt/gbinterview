@@ -1,4 +1,4 @@
-package tasktwo;
+package lessontwo.tasktwo;
 
 class ReportItem{
 	private String description;

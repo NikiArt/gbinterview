@@ -1,5 +1,6 @@
-package tasktwo;
-import java.util.*;
+package lessontwo.tasktwo;
+
+import java.util.List;
 
 class PrintReport implements IReport{
 

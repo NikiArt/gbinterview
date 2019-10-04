@@ -1,4 +1,4 @@
-package taskone;
+package lessontwo.taskone;
 
 interface SensorTemperature{
 	int identifier(); // идентификатор датчика

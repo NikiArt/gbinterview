@@ -1,4 +1,4 @@
-package taskone;
+package lessontwo.taskone;
 
 class MeteoStore{
 	// сохранение данных в базу
