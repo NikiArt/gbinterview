@@ -73,7 +73,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>gbinterview.src.main.java.taskone.MeteoStation</mainClass>
+                            <mainClass>gbinterview.src.main.java.lessontwo.taskone.MeteoStation</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

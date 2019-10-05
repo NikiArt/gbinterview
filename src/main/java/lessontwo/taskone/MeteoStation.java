@@ -1,4 +1,4 @@
-package taskone;
+package lessontwo.taskone;
 
 public class MeteoStation{
 	public static void main(String[] args){

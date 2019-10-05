@@ -1,6 +1,7 @@
-package tasktwo;
+package lessontwo.tasktwo;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.List;
 class Report{
 	private List<ReportItem> items;	// Отчетные данные
 	private IReport report;

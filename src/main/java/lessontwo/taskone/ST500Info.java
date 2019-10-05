@@ -1,6 +1,6 @@
-package taskone;
+package lessontwo.taskone;
 
-import java.time.*;
+import java.time.LocalDateTime;
 
 class ST500Info{
 	public SensorTemperature getData(){

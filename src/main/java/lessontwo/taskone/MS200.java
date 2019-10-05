@@ -1,6 +1,6 @@
-package taskone;
+package lessontwo.taskone;
 
-import java.time.*;
+import java.time.LocalDateTime;
 
 public class MS200 implements MeteoSensor{
 	int id;
